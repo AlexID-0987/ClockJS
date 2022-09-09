@@ -2,8 +2,12 @@
     width: 700px;
     height: 350px;
     /*background-color: darkgrey;*/
+    margin: auto;
 
 }
 .card{
+    text-align: center;
+}
+.buttons{
     text-align: center;
 }
